@@ -1,0 +1,17 @@
+const appId = '0b2002c0-5036-417c-8f88-e237ab3b04f9';
+const accessToken = 'f3199609-8467-4ff6-8182-67359c1dd5dc';
+const deviceId = 'd52f3e20-8986-4edf-9918-676a6c4d250a';
+const clientId = 'f1eca925-4d75-4080-acfb-99aebbf8b1c0';
+const clientSecret = '752b7b2e-a61f-42ca-9a26-6bb31496182f';
+
+trial2:
+clientid: d5c24adb-3b30-408c-a5cf-978937924603
+clientsecret: 1feac92d-f8aa-48f3-8ae2-a9b3e940f64c
+
+s198:
+cid: d3c4259b-fc6e-4a70-bbbc-7a2e28783341
+csc: 42c65fcf-aada-4749-9767-b6fabeff77f4
+
+trialt:
+cid: 75c50cae-6b0d-4556-8eb3-493d8202fd7b
+csc: 4d661c24-bfbd-47d8-8ca0-436e24d9dd45
